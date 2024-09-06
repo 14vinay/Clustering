@@ -31,4 +31,16 @@ from sklearn.preprocessing import StandardScaler
 ```
     
 ##  Code
+Present in the above Clustering Jupyter notebook.
+
+## Result
+1. Clustering project segmented the mall customers into five distinct groups based on their annual income and spending scores.
+
+2. Using K-Means clustering with the otimal number of clusters determined via "Elbow Method".
+
+3. The customers were assigned labels (0 - 4) corresponding to differnt clusters.
+
+## Conclusion
+This clustering analysis provided valuable insights into customer behavior at the mall. By identifying specific customer segments, the mall can now implement targeted marketing strategies and personalized promotions to better engage each group. 
+
 
